@@ -70,7 +70,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:background="@drawable/shape"
-            android:hint="example@gmail.com"
+            android:hint="example@gmail.commmmmmmmmm"
             android:inputType="textEmailAddress"
             android:paddingLeft="30dp"
             android:paddingRight="25dp"
