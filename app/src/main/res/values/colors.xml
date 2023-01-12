@@ -6,6 +6,9 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="Orange">#F65B2A</color>
+    <color name="Orangelight">#FD6B3D</color>
     <color name="grey">#CBCBCB</color>
+    <color name="purple">#CEB4FF</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

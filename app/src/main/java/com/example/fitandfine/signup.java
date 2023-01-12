@@ -1,4 +1,4 @@
-package layouts;
+package com.example.fitandfine;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import com.example.fitandfine.R;
 
-public class home extends AppCompatActivity {
+public class signup extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home);
+        setContentView(R.layout.activity_signup);
     }
 }
