@@ -1,4 +1,4 @@
-package layouts;
+package com.example.fitandfine;
 
 import androidx.appcompat.app.AppCompatActivity;
 
